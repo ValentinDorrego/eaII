@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
